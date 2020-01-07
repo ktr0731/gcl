@@ -9,5 +9,5 @@ $ gcl <owner/repo> ...
 ## Example
 ``` bash 
 $ gcl ktr0731/evans ktr0731/dept
-ktr0731/evans
+github.com/ktr0731/evans
 ```
